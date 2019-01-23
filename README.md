@@ -1,6 +1,13 @@
 # Ng6Proj
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.n
+
+## To run this app on your machine
+
+Open terminal : run the following command 
+
+1. `npm install`
+2. `ng serve --open` 
 
 ## Development server
 
